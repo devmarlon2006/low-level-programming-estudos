@@ -1,0 +1,17 @@
+# JetBrains IDEs
+/.idea
+/.idea/*
+
+# VSCode
+.vscode/
+
+# Project-specific folders
+/shelf/
+/queries/
+/dataSources/
+/dataSources.local.xml
+/workspace.xml
+/httpRequests/
+
+##ideconfig folder
+/.idea
