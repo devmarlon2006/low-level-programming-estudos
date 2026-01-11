@@ -19,10 +19,3 @@ _start:
       mov rax, 60
       xor rdi, rdi
       syscall
-
-.soma:
-      mov rax, 2
-      mov rdi, rax
-      add rsi, rdi , rax
-      mov rdx, [rsi]
-      syscall
