@@ -1,0 +1,8 @@
+Problemas relacionado ao arquivo que pode ser encontrado em src/assembly/basics/helloword/hello.asm, encontrado na  pagina do livro de numero 51
+|
+|-> Questão 14. O que faz o xor rdi, rdi ? : Define o registrador RDI em 0;
+|
+|-> Questão 15. Qual é o código de retorno do programa ? : O codigo de retorno e igual a 0;
+|
+|-> Questão 16. Qual é o primeiro arguemto de chamada do sistema 'exit' ? : O numero da chamada 60;
+
