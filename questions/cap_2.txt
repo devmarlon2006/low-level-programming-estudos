@@ -4,5 +4,13 @@ Problemas relacionado ao arquivo que pode ser encontrado em src/assembly/basics/
 |
 |-> Questão 15. Qual é o código de retorno do programa ? : O codigo de retorno e igual a 0;
 |
-|-> Questão 16. Qual é o primeiro arguemto de chamada do sistema 'exit' ? : O numero da chamada 60;
+|-> Questão 16. Qual é o primeiro argumento de chamada do sistema 'exit' ? : O numero da chamada 60 no registrador rax;
+
+Problemas relacionados ao arquivo que pode ser encontrado em src/assembly/basics/printrax/print_rax.asm, encontrado na  pagina do livro de numero 51
+|
+|->
+|
+|->
+|
+|->
 
